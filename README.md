@@ -2,8 +2,7 @@ CoinWave: Memecoin Trading Software 🚀
 Welcome to CoinWave, your ultimate tool for memecoin trading! CoinWave is designed to simplify and automate your trading strategies, making it easier to manage your SOL and SPL tokens across multiple wallets. Whether you're distributing funds, creating bundles, or boosting volume, CoinWave has you covered.
 
 🌟 Our Features
-
-&5Explore the powerful features that make CoinWave the go-to solution for memecoin trading:
+Explore the powerful features that make CoinWave the go-to solution for memecoin trading:
 
 💸 Fund Distribution
 Distribute SOL evenly across multiple wallets to generate activity and enable micro-buys.
