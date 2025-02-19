@@ -3,7 +3,7 @@ Welcome to CoinWave, your ultimate tool for memecoin trading! CoinWave is design
 
 🌟 Our Features
 
-Explore the powerful features that make CoinWave the go-to solution for memecoin trading:
+&5Explore the powerful features that make CoinWave the go-to solution for memecoin trading:
 
 💸 Fund Distribution
 Distribute SOL evenly across multiple wallets to generate activity and enable micro-buys.
